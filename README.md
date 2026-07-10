@@ -2,6 +2,9 @@
 
 Applicazione web client-side ispirata al celebre gioco televisivo "La Ruota della Fortuna", sviluppata come progetto speciale/personalizzato. L'applicazione include un tabellone interattivo per la rivelazione delle frasi e integra uno stream webcam live per simulare una regia televisiva.
 
+## Demo Online
+Il gioco è giocabile direttamente online a questo indirizzo: [Ruota della Fortuna - Demo](https://justpeppe.github.io/Ruota-della-fortuna-Frontend/)
+
 ## Installazione e Avvio Locale
 
 1. Clona il repository e installa le dipendenze:
