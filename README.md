@@ -6,7 +6,7 @@ Applicazione web client-side ispirata al celebre gioco televisivo "La Ruota dell
 
 1. Clona il repository e installa le dipendenze:
    ```bash
-   npm install
+   npm install 
    ```
 2. Avvia il server di sviluppo locale:
    ```bash
