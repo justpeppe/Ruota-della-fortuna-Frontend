@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "nano-banana-ui": {
+      "source": "ms-moar/ccc-media",
+      "sourceType": "github",
+      "computedHash": "6abca8fc2350b56b5257cb071992277ae501213a452945cca587b514ccf14f4a"
+    }
+  }
+}
